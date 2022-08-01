@@ -1,8 +1,8 @@
 # tv-animation
 this project about animationmof normal tv
 
-language used
--react js
+language used:
+- react js
 - css
 
 feature
